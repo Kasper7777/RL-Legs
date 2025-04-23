@@ -1,0 +1,8 @@
+pybullet==3.2.5
+numpy==1.24.3
+torch==2.0.1
+gymnasium==0.29.1
+stable-baselines3==2.1.0
+opencv-python==4.8.0.76
+matplotlib==3.7.2
+tensorboard==2.13.0 
